@@ -1,4 +1,16 @@
+# Python
 .venv/
 __pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Notebooks
 .ipynb_checkpoints/
+
+# Env
+.env
+
+# OS
 .DS_Store
